@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="cpu\ac690x\key_drv\key_drv_ad.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2021" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ac690x\clock.h" open="1" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="640" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="cpu\ac690x\timer\power_timer.c" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1044" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\ac690x\uart.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="165" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cpu\ac690x\board\board.c" open="1" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="356" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="common\dev_manage\dev_ctl.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6384" topLine="99" />
+		</Cursor>
+	</File>
+	<File name="cpu\ac690x\key_drv\key_drv_ad_pw.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\ac690x\iic.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="771" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\ac690x\uart_param.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="626" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="include\sdk_cfg.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1396" topLine="26" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ac690x\iic\iic_save.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cpu\ac690x\clock.c" open="1" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1339" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="cpu\ac690x\iic\iic.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5359" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cpu\ac690x\key_drv\key_drv_io.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="538" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="main\main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7052" topLine="224" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\ac690x\iic_save.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="201" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="bluetooth\btstack\bt_configs_user.c" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1517" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\irq_api.h" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="318" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="cpu\ac690x\uart\uart.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="971" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\rtc\rtc_api.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="464" topLine="126" />
+		</Cursor>
+	</File>
+	<File name="cpu\ac690x\iic\iic_save.c" open="1" top="1" tabpos="16" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9503" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\common\msg.h" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1720" topLine="79" />
+		</Cursor>
+	</File>
+	<File name="cpu\ac690x\key_drv\key.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="405" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="linein\linein.c" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1655" topLine="91" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\ac690x\hw_cpu.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23943" topLine="496" />
+		</Cursor>
+	</File>
+	<File name="cpu\ac690x\sys_detect.c" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12405" topLine="446" />
+		</Cursor>
+	</File>
+	<File name="bluetooth\btstack\bt_key_deal.c" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="42894" topLine="1192" />
+		</Cursor>
+	</File>
+	<File name="..\include_lib\cpu\clock_api.h" open="1" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="402" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\cpu\ac690x\key_drv\key_drv_io.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="387" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cpu\ac690x\update.c" open="1" top="0" tabpos="30" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="516" topLine="4" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
